@@ -26,5 +26,4 @@ public class TaxFactory {
                 throw new RuntimeException("Unsupported field \"type\" ");
         }
     }
-
 }

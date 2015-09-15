@@ -38,5 +38,4 @@ public class TaxC implements Tax {
 
         return new BigDecimal(".012");
     }
-
 }
